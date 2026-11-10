@@ -31,7 +31,7 @@ python train_model.py
 streamlit run app.py
 ```
 
-Streamlit will print a local URL, usually http://localhost:8501.
+
 
 ## Dataset
 Uses the built-in Iris dataset shipped with scikit-learn: 150 samples, four numeric measurements (sepal length/width and petal length/width), and three species classes.
